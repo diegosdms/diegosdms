@@ -8,4 +8,3 @@ Estudante de Engenharia de Software, com foco no aprendizado contínuo de JavaSc
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-
