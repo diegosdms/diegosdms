@@ -1,5 +1,11 @@
-Diego — Estudante de Engenharia de Software 💻📘
+## 👨‍💻 Diego — Estudante de Engenharia de Software
 
-Estudante de Engenharia de Software, com foco no aprendizado contínuo de JavaScript, Python, React e Node.js.
-Tecnologias em estudo:
-JavaScript Python React Node.js
+```txt
+Estudante de Engenharia de Software
+Foco em aprendizado contínuo e prática em desenvolvimento
+const tecnologias = [
+  "JavaScript",
+  "Python",
+  "React",
+  "Node.js"
+];
